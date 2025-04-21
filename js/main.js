@@ -131,6 +131,15 @@ function initGallery() {
     },
     {
       id: 2,
+      title: "Fluffy Bytes",
+      description: "Repsonsive mock website for a Web Developing company, it has testimonials and reviews, about page and services",
+      category: "website",
+      image: "assets/mockcutewebsite business.png",
+      link: "assets/cutewebsitebusiness.mp4",
+      
+    },
+    {
+      id: 3,
       title: "Be My Guest Website",
       description: "Responsive picnic booking website. Implemented Home, Policies, Booking , Packages and Contact us pages. Helped organize business and logo creation",
       category: "website",
@@ -138,7 +147,7 @@ function initGallery() {
       link: "#",
     },
     {
-      id: 3,
+      id: 4,
       title: "Whiting Turner Workshop Poster",
       description: "Poster/ Flyer for Whiting Turner Workshop for Resume Reviews.",
       category: "poster",
@@ -146,7 +155,7 @@ function initGallery() {
       link: "#",
     },
     {
-      id: 4,
+      id: 5,
       title: "AMRS Construciton Company",
       description: "Repsonsive website for construction company.",
       category: "website",
@@ -154,6 +163,7 @@ function initGallery() {
       link: "#",
       
     },
+    
   ]
 
   const galleryGrid = document.querySelector(".gallery-grid")
