@@ -135,7 +135,7 @@ function initGallery() {
       description: "Repsonsive mock website for a Web Developing company, it has testimonials and reviews, about page and services",
       category: "website",
       image: "assets/mockcutewebsite business.png",
-      link: "assets/cutewebsitebusiness.mp4",
+      link: "assets/mock website business - Made with Clipchamp.mp4",
       
     },
     {
