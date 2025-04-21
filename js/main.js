@@ -147,11 +147,12 @@ function initGallery() {
     },
     {
       id: 4,
-      title: "Portfolio Website",
-      description: "Custom portfolio website for a graphic designer client.",
+      title: "AMRS Construciton Company",
+      description: "Repsonsive website for construction company.",
       category: "website",
-      image: "assets/wWhiting turner resume workshop.png",
+      image: "assets/amrs.png",
       link: "#",
+      
     },
   ]
 
