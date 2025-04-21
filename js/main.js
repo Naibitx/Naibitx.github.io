@@ -123,10 +123,10 @@ function initGallery() {
   const galleryItems = [
     {
       id: 1,
-      title: "SHPE Event Poster",
-      description: "Promotional poster for the Society of Hispanic Professional Engineers networking event.",
+      title: "SHPE : Lets Get This Breadboard",
+      description: "This is a SHPE Valentines Day Technology event poster",
       category: "poster",
-      image: "https://via.placeholder.com/600x400",
+      image: "assets/Valentines Day 2025 Event Print.png",
       link: "#",
     },
     {
