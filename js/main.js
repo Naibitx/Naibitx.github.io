@@ -127,7 +127,7 @@ function initGallery() {
       description: "This is a SHPE Valentines Day Technology event poster. ",
       category: "poster",
       image: "assets/Valentines Day 2025 Event Print.png",
-      link: "#",
+      link: "assets/Valentines Day 2025 Event Print.png",
     },
     {
       id: 2,
@@ -144,7 +144,7 @@ function initGallery() {
       description: "Responsive picnic booking website. Implemented Home, Policies, Booking , Packages and Contact us pages. Helped organize business and logo creation",
       category: "website",
       image: "assets/bemyguest.png",
-      link: "#",
+      link: "assets/bemyguest.png",
     },
     {
       id: 4,
@@ -152,7 +152,7 @@ function initGallery() {
       description: "Poster/ Flyer for Whiting Turner Workshop for Resume Reviews.",
       category: "poster",
       image: "assets/wWhiting turner resume workshop.png",
-      link: "#",
+      link: "assets/wWhiting turner resume workshop.png",
     },
     {
       id: 5,
@@ -160,7 +160,7 @@ function initGallery() {
       description: "Repsonsive website for construction company.",
       category: "website",
       image: "assets/amrs.png",
-      link: "#",
+      link: "assets/amrs.png",
       
     },
     
