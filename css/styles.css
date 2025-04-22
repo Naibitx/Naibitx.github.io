@@ -1067,6 +1067,7 @@ select:focus {
   display: grid;
   grid-template-columns: 1fr;
   gap: 3rem;
+  align-items: center;
 }
 
 .contact-subtitle {
