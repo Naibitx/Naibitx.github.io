@@ -339,6 +339,8 @@ img {
   grid-template-columns: 1fr;
   gap: 2rem;
   margin-bottom: 4rem;
+  text-align: center;
+  justify-content: center;
 }
 
 .card {
@@ -354,8 +356,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center;
-  justify-content: center;
 }
 
 .card-icon {
