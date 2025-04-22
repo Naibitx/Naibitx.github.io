@@ -355,6 +355,7 @@ img {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  justify-content: center;
 }
 
 .card-icon {
@@ -1067,8 +1068,6 @@ select:focus {
   display: grid;
   grid-template-columns: 1fr;
   gap: 3rem;
-  align-items: center;
-  justify-content: center;
 }
 
 .contact-subtitle {
