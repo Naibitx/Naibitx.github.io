@@ -294,8 +294,8 @@ img {
 }
 
 .hero-photo {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
   overflow: hidden;
   border-radius: 50%;
   flex-shrink: 0;
