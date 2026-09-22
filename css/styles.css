@@ -294,8 +294,11 @@ img {
 }
 
 .hero-photo {
-  width: 350px;
-  height: 350px;
+  width: 350px !important;
+  height: 350px !important;
+  min-width: 350px;
+  min-height: 350px;
+  max-width: none !important;
   overflow: hidden;
   border-radius: 50%;
   flex-shrink: 0;
@@ -305,6 +308,7 @@ img {
   width: 100% !important;
   height: 100% !important;
   max-width: none !important;
+  max-height: none !important;
   object-fit: cover;
   border-radius: 50% !important;
   display: block;
