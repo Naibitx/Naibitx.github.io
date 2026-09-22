@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Initialize the portfolio functionality
   initNavbar()
-  initHero3D()
   initGallery()
   initContactForm()
   initToast()
@@ -54,8 +53,7 @@ function initNavbar() {
   })
 }
 
-// 3D Cube in Hero section
-function initHero3D() {
+
   const canvas = document.getElementById("cube-canvas")
 
   if (!canvas) return
@@ -115,7 +113,6 @@ function initHero3D() {
   window.addEventListener("resize", handleResize)
   handleResize()
   animate()
-}
 
 // Gallery functionality
 function initGallery() {
